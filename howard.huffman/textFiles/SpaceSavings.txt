@@ -1,0 +1,15 @@
+/**
+* The calculated space savings from the Huffman-encoded file is given by the function:
+* 
+* % of Space Savings = [1 - (Compressed File Size/Actual File Size)] * 100 %
+* 
+* % of Space Savings = [1 - (32 KB / 45 KB)] * 100 % = 30 % Space Savings
+*
+* Therefore, the space saved by Huffman encoding for compression is approximately 30% of the actual file size.
+*
+* This means that the compressed file is approximately 70% the size of the original, uncompressed text file.
+*
+* This size difference is approximately 1/3 of the original file size, which is fairly respectable.
+*
+* @author Shaun Howard
+*/
